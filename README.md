@@ -101,8 +101,4 @@ This project demonstrates the ability to think like a:
 A complete, portfolio‑ready project showcasing real‑world analytical and documentation skills.
 
 ---
-
-## 👩‍💻 Author  
-**Maneesha Reddy Guda**  
-Business Systems Analyst | Data Analyst | IT Analyst  
-📍 Aurora, Illinois, USA
+Business Systems Analyst | Data Analyst | IT Analyst
